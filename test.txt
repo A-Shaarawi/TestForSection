@@ -1,1 +1,1 @@
-Hi this is not the master branch
+Hi this is not the master branch and we commited new changes for devs branch only
